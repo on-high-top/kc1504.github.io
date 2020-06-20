@@ -1,0 +1,1 @@
+[![登录-issues](https://img.shields.io/badge/%E7%99%BB%E5%BD%95-iss-green?logo=appveyor&style=for-the-badge)](https://github.com/kc1504/kc1504.github.io/issues/new?assignees=Aaron-mhx&labels=documentation&template=----------.md&title=%E6%96%87%E4%BB%B6%E4%BF%AE%E6%94%B9)
