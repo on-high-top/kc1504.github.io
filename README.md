@@ -4,7 +4,7 @@
 
 [![信息-全站帮助（WIKI）](https://img.shields.io/badge/%E4%BF%A1%E6%81%AF-%E5%85%A8%E7%AB%99%E5%B8%AE%E5%8A%A9%EF%BC%88wiki%EF%BC%89-green?logo=indeed&style=for-the-badge)](wiki)【尚未完成】
 
-[![信息-公告区](https://img.shields.io/badge/%E4%BF%A1%E6%81%AF-%E5%85%AC%E5%91%8A%E5%8C%BA-green?logo=pinboard&style=for-the-badge)](Announcement)
+[![信息-公告区](https://img.shields.io/badge/%E4%BF%A1%E6%81%AF-%E5%85%AC%E5%91%8A%E5%8C%BA-green?logo=indeed&style=for-the-badge)](Announcement)
 
 #### 提示：本网站将于每年9月份更新，现在处于未完成状态，请九月再次登陆，先填一下[问卷](https://f.wps.cn/form-write/ENAqQMjD/)呀
 
